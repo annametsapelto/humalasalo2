@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main_device {
+    width: 250px;
+}
+.main_name {
+    width: 40%;
+}
